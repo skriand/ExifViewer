@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Exif Viewer</string>
+    <string name="empty_text">Choose an image to view</string>
+    <string name="open_image">Open image</string>
+    <string name="image">Image</string>
+    <string name="close">Close</string>
+    <string name="edit_exif">Edit Exif</string>
+    <string name="edit_tags">Edit tags</string>
+    <string name="save">Save</string>
+    <string name="back_button">Back</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="device_brand">Device manufacture</string>
+    <string name="device_model">Device model</string>
+    <string name="date_time">Date and time</string>
+    <string name="edit">Edit</string>
+    <string name="confirm">Confirm</string>
+    <string name="next">Next</string>
+</resources>
