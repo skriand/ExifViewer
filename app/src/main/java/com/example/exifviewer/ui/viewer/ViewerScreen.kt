@@ -156,7 +156,7 @@ fun ViewerScreen(
                         Box(
                             modifier = Modifier
                                 .background(
-                                    color = Color.LightGray,
+                                    color = MaterialTheme.colorScheme.onSurface,
                                     MaterialTheme.shapes.extraLarge
                                 )
                                 .height(5.dp)
